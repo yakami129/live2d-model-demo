@@ -1,0 +1,8 @@
+node_modules
+.idea/.gitignore
+.idea/live2d-model-demo.iml
+.idea/misc.xml
+.idea/modules.xml
+.idea/vcs.xml
+.idea/inspectionProfiles/Project_Default.xml
+.DS_Store
